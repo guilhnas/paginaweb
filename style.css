@@ -1,0 +1,139 @@
+body {
+  color: white;
+  background: black;
+  margin: 2px;
+}
+
+header {
+  font-size:50px;
+  color: white;
+  border-bottom: solid 2px white;
+  margin: 20px; 
+  padding: 20px;
+   font-family: "Montserrat", sans-serif;
+}
+
+.entrada {
+  font-family: "Montserrat", sans-serif;
+  background: rgb(235, 104, 104);
+  margin: 20px;
+  padding: 20px;
+  font-size: 30px;
+  display: flex;
+  
+}
+
+.descriçao{
+  font-size: 20px;
+}
+
+.primeiro{
+  margin-rigth:20px;
+}
+
+img{
+  height: 200px;
+}
+
+.clipes{
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+p{
+  text-align: justify
+}
+
+.outros{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.outros img{
+  opacity: 0.5;
+}
+
+.outros img:hover {
+  opacity: 1.0;
+  border: solid 3px white;
+  border-radius: 20px;
+}
+
+.logo{
+  position: relative;
+  top: -40px;
+  left: 500px;
+  width:200px;
+}body {
+  color: white;
+  background: black;
+  margin: 2px;
+}
+
+header {
+  font-size:50px;
+  color: white;
+  border-bottom: solid 2px white;
+  margin: 20px; 
+  padding: 20px;
+   font-family: "Montserrat", sans-serif;
+}
+
+.entrada {
+  font-family: "Montserrat", sans-serif;
+  background: rgb(235, 104, 104);
+  margin: 20px;
+  padding: 20px;
+  font-size: 30px;
+  display: flex;
+  
+}
+
+.descriçao{
+  font-size: 20px;
+}
+
+.primeiro{
+  margin-rigth:20px;
+}
+
+img{
+  height: 200px;
+}
+
+.clipes{
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+p{
+  text-align: justify
+}
+
+.outros{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.outros img{
+  opacity: 0.5;
+}
+
+.outros img:hover {
+  opacity: 1.0;
+  border: solid 3px white;
+  border-radius: 20px;
+}
+
+.logo{
+  position: relative;
+  top: -40px;
+  left: 500px;
+  width:200px;
+}
